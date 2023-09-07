@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--주석--!> <!-- 글씨 강조 ** ** --> <!--줄바꿈 <br> spacebar 2번이상-->
 <!--인사말-->
 **Hi there**👋  
-**I am JangHooon. Full stact Web developer, Republic of korea** 👨‍💻
+**I am JangHoon. Full stact Web developer, Republic of korea** 👨‍💻
 
 <!--나에 대한 설명 --> <!-- <h1> <h2> # ##-->
 ## About me🌱
