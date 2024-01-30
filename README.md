@@ -26,7 +26,7 @@ I’m currently learning Basic Programming skills like HTML, CSS, Javascript, jq
 
 <!-- 연락 정보 -->
 ## Connect with me📫
-How to reach me: hune6390@naver.com
+How to reach me: best.dev.shin@gmail.com
 
 <!-- 관심 분야 -->
 ## Interest 
